@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adith</h1>
 I am a sophmore student studying CSE. <br>
-I love to design websites and mobile applications, In general I love doing anything creative :sweat_smile: <br>
+I design websites and mobile applications, In general I crave doing anything creative :sweat_smile: <br>
 I am also into computer vision & stuff but I also love to make Mobile appilcations for native android as well as using flutter.<br><br>
 
 <p align="center">
